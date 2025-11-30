@@ -1,1 +1,2 @@
 The project demonstrates the Cross Modal Information Retrieval System. 
+Uses two tower architecture i) ResNet for Image Processing and ii) Bert for Text processing
